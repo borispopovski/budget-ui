@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The React Compiler is not enabled on this template because of its impact on dev & build performapnces. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
 ## Expanding the ESLint configuration
 
@@ -73,5 +73,3 @@ export default defineConfig([
 ])
 
 ```
-notes:
-login page, ui/api, db, i will work frontend, 2 tables at the biginning, 2 entities, 2 services, 2 repositories, mysql, readme na api, jas main page, domain service, applicatin service, mapper, validations, we conntect controllers with dependencies, swagger?whatisit? vo kontroleri se stava wev service, so konstruktor se povika do servicos, vo kontroler ne stavajtre biznis logika, 
